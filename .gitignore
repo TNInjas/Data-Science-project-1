@@ -1,0 +1,22 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual documents (Jupyter internal)
+.virtual_documents/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
